@@ -1,0 +1,97 @@
+#Pic {
+  display: block;
+  width: 320pt;
+  margin-left: 70%;
+  margin-bottom: 1%
+}
+
+#Samsung {
+  width:70%;
+  height: 600pt;
+}
+
+#ATM {
+  display: inline-block;
+  margin-right: 100pt;
+  width: 30%;
+  height:600px
+}
+
+#Scooter {
+  display: inline-block;
+  margin-left: 100pt;
+  width: 30%;
+  height: 600px;
+}
+
+.Upper {
+  overflow: auto;
+  background-color: #c7b9b2;
+  width: 100%;
+  height: 100%;
+}
+
+
+li a {
+  padding: 16px;
+  font-size: 16px;
+  color: white;
+  font-size: 20pt;
+
+}
+
+
+ul {
+  list-style-type: none;
+  background-color: #c65252;
+  text-align: right;
+  padding: 10pt;
+  margin-top: 0;
+}
+
+ul li {
+  display: inline-block;
+}
+
+h2 {
+  position: relative;
+  margin-left: 50px;
+  top: 80px;
+}
+
+.Main {
+  text-align: center;
+  font-size: 30pt;
+}
+
+#awfulsolution1 {
+  display: inline-block;
+  padding-left: 500px;
+  font-size: 30pt;
+}
+
+#awfulsolution2 {
+  display: inline-block;
+  padding-left: 400px;
+  font-size: 30pt;
+}
+
+#awfulsolution3 {
+  display: inline-block;
+  padding-left: 500px;
+  font-size: 30pt;
+}
+
+.Foot {
+  overflow: auto;
+  background-color: #c7b9b2;
+  text-align: center;
+  padding-top: 20pt;
+  font-size: 20pt;
+}
+#Pic2 {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 10%;
+ }
